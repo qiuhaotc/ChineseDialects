@@ -1,2 +1,5 @@
-# ChineseDialect
+# Chinese Dialects
 汉语方言仓库：随着普通话普及，有些方言逐渐消失，这个仓库就是记录各地方言的信息。欢迎共享自己的家乡方言。
+
+## TODO
+定义贡献格式，应该也许可能是用Markdown
